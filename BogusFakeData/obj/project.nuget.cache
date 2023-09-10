@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "PL6ceC2fYabGnocO1C5nSdpQvJ+armXTF6WA7lYfQVlvpFfJlVCtFtVGuPArbWtLvd3ZuxRdxAjaK/oolnpE8g==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\VAITY\\source\\repos\\BogusFakeDataApp\\BogusFakeData\\BogusFakeData.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\VAITY\\.nuget\\packages\\bogus\\34.0.2\\bogus.34.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}
